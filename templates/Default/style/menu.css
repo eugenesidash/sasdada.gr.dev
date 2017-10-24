@@ -1,0 +1,149 @@
+.panelUsers {
+    background:url(/templates/Default/images/index.png) 144px 0px repeat-y scroll rgb(44, 62, 80);
+    float: left;
+    height: 580px;
+    margin-top: 0;
+    position: fixed;
+    width: 152px;
+ margin-left:-164px
+}
+.panelUsers > a {
+    box-shadow: 0 1px rgba(255, 255, 255, 0.05) inset, 0 -1px rgba(0, 0, 0, 0.2) inset, 0 0;
+    color: #EBEFEF;
+    float: left;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-bottom: 0;
+    padding: 10px 10px 10px 39px;
+    width: 103px;
+}
+.clearsw {
+    float: left;
+    margin-right: 0;
+    margin-top: 0;
+    min-height: 415px;
+    width: 1005px;
+}
+.panelUsers > a:hover {
+    text-decoration: none;
+}
+.camera a.icon {
+    background: url("../images/camera.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+a.icon {
+    cursor: pointer;
+    height: 52px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 52px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.navigation {
+    font-family: "Trebuchet MS",sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1.4px;
+}
+.panelUserss {
+    margin-left: 16px;
+    margin-top: 6px;
+    position: fixed;
+}
+
+
+
+.ic_msw {
+    background: url("/templates/Default/images/2.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+    float: left;
+}
+.ic_msw:hover {
+    background: url("/templates/Default/images/3.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}
+.ic_friendss:hover {
+    background: url("/templates/Default/images/friends_active.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}
+.ic_friendss {
+    background: url("/templates/Default/images/friends.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+    float: left;
+}
+.panelUsers > a:hover {
+    background-color: rgba(0, 0, 0, 0.25);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1) inset, 0 -1px rgba(0, 0, 0, 0.3) inset, 0 -1px rgba(0, 0, 0, 0.3);
+}
+.i-f:hover {
+    background: url("/templates/Default/images/2-f.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0.25);
+}
+.i-f {
+    background: url("/templates/Default/images/1-f.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}
+.i-z {
+    background: url("/templates/Default/images/1-z.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}
+.i-z:hover {
+    background: url("/templates/Default/images/2-z.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0.25);
+}
+.i-v {
+    background: url("/templates/Default/images/1-v.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}
+.i-v:hover {
+    background: url("/templates/Default/images/2-v.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0.25);
+}
+.i-l {
+    background: url("/templates/Default/images/1-l.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}
+.i-l:hover {
+    background: url("/templates/Default/images/2-l.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0.25);
+}
+.i-n {
+    background: url("/templates/Default/images/1-n.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}
+.i-n:hover {
+    background: url("/templates/Default/images/2-n.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}
+.i-s {
+    background: url("/templates/Default/images/1-s.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}
+.i-s:hover {
+    background: url("/templates/Default/images/2-s.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}
+.i-za:hover {
+    background: url("/templates/Default/images/2-za.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}
+.i-za {
+    background: url("/templates/Default/images/1-za.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}
+.i-nv {
+    background: url("/templates/Default/images/1-na.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}
+.i-nv:hover {
+    background: url("/templates/Default/images/2-na.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}
+.i-p {
+    background: url("/templates/Default/images/1-pa.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}
+.i-p:hover {
+    background: url("/templates/Default/images/2-pa.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}
+.i-b {
+    background: url("/templates/Default/images/1-b.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}
+.i-b:hover {
+    background: url("/templates/Default/images/2-b.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0.35);
+}
+.i-pd {
+    background: url("/templates/Default/images/1-po.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}
+.i-pd:hover {
+    background: url("/templates/Default/images/2-po.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0.35);
+}
+.i-nang {
+    background: url("/templates/Default/images/1-lang.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}
+.i-nang:hover {
+    background: url("/templates/Default/images/2-lang.png") no-repeat scroll 7px 4px / 25px auto rgba(0, 0, 0, 0);
+}

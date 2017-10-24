@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://wes.ru/images/%D0%B3%D0%BE%D1%82%D0%BE%D0%B2-%D1%84%D0%BE%D0%BD.jpg</loc>
+    <lastmod>2014-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://wes.ru/images/728.jpg</loc>
+    <lastmod>2014-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://wes.ru/images/delete_128x128.png</loc>
+    <lastmod>2014-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://wes.ru/index.html</loc>
+    <lastmod>2014-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
